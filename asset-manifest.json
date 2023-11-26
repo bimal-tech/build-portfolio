@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.69747bd2.css",
+    "main.js": "/static/js/main.6bab8929.js",
+    "static/media/about.jpg": "/static/media/about.b87b2297cf76caaaa3cd.jpg",
+    "static/media/signLanguage.jpg": "/static/media/signLanguage.eb18da9b64362f0c535e.jpg",
+    "static/media/cryptoPortfolio.jpg": "/static/media/cryptoPortfolio.5e3576bc06c5a8bd20e5.jpg",
+    "static/media/attendanceManagement.jpg": "/static/media/attendanceManagement.58f1cad4c9c7cca714b6.jpg",
+    "static/media/eBidding.jpg": "/static/media/eBidding.de31eee0db16f7252eb7.jpg",
+    "static/media/gmailClone.jpg": "/static/media/gmailClone.310f2f48f4a9cac43905.jpg",
+    "index.html": "/index.html",
+    "main.69747bd2.css.map": "/static/css/main.69747bd2.css.map",
+    "main.6bab8929.js.map": "/static/js/main.6bab8929.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69747bd2.css",
+    "static/js/main.6bab8929.js"
+  ]
+}
